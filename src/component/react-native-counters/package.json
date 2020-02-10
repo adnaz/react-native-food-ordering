@@ -1,0 +1,47 @@
+{
+  "_from": "react-native-counters",
+  "_id": "react-native-counters@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-k2NpCJcHatrvM259+uUD2qAhq3iFLH9onCBKcXgLUrKd+FwiRXlq6vz6Th/1lUiWjjnnYT/gLtTbnho3tJui/Q==",
+  "_location": "/react-native-counters",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-counters",
+    "name": "react-native-counters",
+    "escapedName": "react-native-counters",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-counters/-/react-native-counters-0.0.1.tgz",
+  "_shasum": "d2de448c6e1561adff4d6109f23bde6c4a72a8fa",
+  "_spec": "react-native-counters",
+  "_where": "C:\\Users\\enan\\Desktop\\pfe\\user",
+  "author": {
+    "name": "Yasar ICLI",
+    "email": "yasaricli@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/yasaricli/react-native-counters/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  },
+  "deprecated": false,
+  "description": "React native Minus(-) (Number) Plus(+) Component",
+  "homepage": "https://github.com/yasaricli/react-native-counters#readme",
+  "main": "index.js",
+  "name": "react-native-counters",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasaricli/react-native-counters.git"
+  },
+  "version": "0.0.1"
+}
